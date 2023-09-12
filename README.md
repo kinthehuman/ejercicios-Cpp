@@ -1,2 +1,1 @@
-# ejercicios-Cpp
-Ejercicios en C++
+# P1-IntroCPP
