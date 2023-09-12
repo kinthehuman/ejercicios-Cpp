@@ -1,1 +1,2 @@
-# P1-IntroCPP
+# IntroCPP
+Ejercicios para practicar c++
